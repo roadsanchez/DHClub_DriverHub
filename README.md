@@ -3,7 +3,7 @@
 Bienvenue sur la page d'installation de notre **Driver Hub** !
 
 📦 **Téléchargement** :  
-Retrouvez toutes nos versions ici → [GitHub - Releases](https://github.com/roadsanchez/DHClub_DriverHub/releases/new)
+Retrouvez toutes nos versions ici → [GitHub - Releases](https://github.com/roadsanchez/DHClub_DriverHub/releases)
 
 ---
 
